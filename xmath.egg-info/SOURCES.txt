@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+xmath/__init__.py
+xmath.egg-info/PKG-INFO
+xmath.egg-info/SOURCES.txt
+xmath.egg-info/dependency_links.txt
+xmath.egg-info/top_level.txt
